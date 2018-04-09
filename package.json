@@ -1,0 +1,24 @@
+{
+  "name": "got-graph-generator",
+  "version": "1.0.0",
+  "description": "Un générateur de graph a partir des données de l'API Ice and Fire",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpicKiwi/Got-graph-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpicKiwi/Got-graph-generator/issues"
+  },
+  "homepage": "https://github.com/EpicKiwi/Got-graph-generator#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
