@@ -1,0 +1,42 @@
+{
+  "region": {
+    "name": "Region",
+    "description": "The region that a house resides in."
+  },
+  "coatOfArms": {
+    "name": "Coat of arms",
+    "description": "Text describing the coat of arms of a house.",
+    "large": true
+  },
+  "words": {
+    "name": "Words",
+    "description": "The words of a house.",
+    "large": true
+  },
+  "founded": {
+    "name": "Founded",
+    "description": "The year that a house was founded."
+  },
+  "diedOut": {
+    "name": "Died out",
+    "description": "The year that a house died out."
+  },
+  "gender": {
+    "name": "Gender",
+    "description": "The gender of a character."
+  },
+  "culture": {
+    "name": "Culture",
+    "description": "The culture that a character belongs to."
+  },
+  "born": {
+    "name": "Born",
+    "description": "Textual representation of when and where a character was born.",
+    "large": true
+  },
+  "died": {
+    "name": "Died",
+    "description": "Textual representation of when and where a character died.",
+    "large": true
+  }
+}
